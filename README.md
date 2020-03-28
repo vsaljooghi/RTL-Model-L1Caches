@@ -19,21 +19,27 @@ written in VHDL and fits different processors in ASICs and FPGAs. To show the us
 
 **Instruction Cache Datapath:**<br/>
 <img src="./Figures/Datapath/IC_DataPath.svg">
+<br/><br/>
 
 **Instruction Cache Controller:**<br/>
 <img src="./Figures/ControllerFSMs/IC_FSM.svg">
+<br/><br/>
 
 **Data Cache Controller(write through with no allocation):**<br/>
 <img src="./Figures/ControllerFSMs/DC_WrThrNoAlloc_FSM.svg">
+<br/><br/>
 
 **Data Cache Controller(write through with allocation):**<br/>
 <img src="./Figures/ControllerFSMs/DC_WrThrAlloc_FSM.svg">
+<br/><br/>
 
 **Data Cache Controller(write back with allocation):**<br/>
 <img src="./Figures/ControllerFSMs/DC_WrBackAlloc_FSM.svg">
+<br/><br/>
 
 **Arbiter Controller:**<br/>
 ![Screen Shot](https://raw.githubusercontent.com/vsaljooghi/RTL-Model-L1Caches/master/Figures/ControllerFSMs/Arbiter_FSM.png)
+<br/><br/>
 
-**Instruction and Data Cache top level system untegration:**<br/>
+**Instruction and Data Cache top level system integration:**<br/>
 <img src="./Figures/Datapath/System_BD_Cropped.svg">
