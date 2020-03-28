@@ -2,7 +2,7 @@
 
 ```diff
 - This project is done as master thesis at University of Chalmers computer engineering department
-&emsp;&emsp;&emsp;http://www.cse.chalmers.se/research/group/vlsi/flexsoc/downloads.shtml
+http://www.cse.chalmers.se/research/group/vlsi/flexsoc/downloads.shtml
 ```
 
 <p>
@@ -18,7 +18,7 @@ written in VHDL and fits different processors in ASICs and FPGAs. To show the us
 
 
 **Instruction Cache Datapath:**<br/>
-![Screen Shot](https://raw.githubusercontent.com/vsaljooghi/RTL-Model-L1Caches/master/Figures/Datapath/IC_DataPath.svg)
+<img src="/Figures/Datapath/IC_DataPath.svg">
 
 **Instruction Cache Controller:**<br/>
 ![Screen Shot](https://raw.githubusercontent.com/vsaljooghi/RTL-Model-L1Caches/master/Figures/ControllerFSMs/IC_FSM.svg)
