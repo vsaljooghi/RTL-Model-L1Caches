@@ -2,8 +2,8 @@
 
 ```diff
 - This project is done as master thesis at University of Chalmers computer engineering department
-http://www.cse.chalmers.se/research/group/vlsi/flexsoc/downloads.shtml
 ```
+http://www.cse.chalmers.se/research/group/vlsi/flexsoc/downloads.shtml
 
 <p>
 Level-1 (L1) cache memories are complex circuits that tightly integrate memory, logic, and state machines near the processor
@@ -18,22 +18,22 @@ written in VHDL and fits different processors in ASICs and FPGAs. To show the us
 
 
 **Instruction Cache Datapath:**<br/>
-<img src="/Figures/Datapath/IC_DataPath.svg">
+<img src="./Figures/Datapath/IC_DataPath.svg">
 
 **Instruction Cache Controller:**<br/>
-![Screen Shot](https://raw.githubusercontent.com/vsaljooghi/RTL-Model-L1Caches/master/Figures/ControllerFSMs/IC_FSM.svg)
+<img src="./Figures/ControllerFSMs/IC_FSM.svg">
 
 **Data Cache Controller(write through with no allocation):**<br/>
-![Screen Shot](https://raw.githubusercontent.com/vsaljooghi/RTL-Model-L1Caches/master/Figures/ControllerFSMs/DC_WrThrNoAlloc_FSM.svg)
+<img src="./Figures/ControllerFSMs/DC_WrThrNoAlloc_FSM.svg">
 
 **Data Cache Controller(write through with allocation):**<br/>
-![Screen Shot](https://raw.githubusercontent.com/vsaljooghi/RTL-Model-L1Caches/master/Figures/ControllerFSMs/DC_WrThrAlloc_FSM.svg)
+<img src="./Figures/ControllerFSMs/DC_WrThrAlloc_FSM.svg">
 
 **Data Cache Controller(write back with allocation):**<br/>
-![Screen Shot](https://raw.githubusercontent.com/vsaljooghi/RTL-Model-L1Caches/master/Figures/ControllerFSMs/DC_WrBackAlloc_FSM.svg)
+<img src="./Figures/ControllerFSMs/DC_WrBackAlloc_FSM.svg">
 
 **Arbiter Controller:**<br/>
 ![Screen Shot](https://raw.githubusercontent.com/vsaljooghi/RTL-Model-L1Caches/master/Figures/ControllerFSMs/Arbiter_FSM.png)
 
 **Instruction and Data Cache top level system untegration:**<br/>
-![Screen Shot](https://raw.githubusercontent.com/vsaljooghi/RTL-Model-L1Caches/master/Figures/Datapath/System_BD_Cropped.svg)
+<img src="./Figures/Datapath/System_BD_Cropped.svg">
